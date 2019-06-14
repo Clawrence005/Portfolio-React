@@ -1,12 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './pages/Home';
+import GalleryPhotoWrapper from './containers/GalleryPhotoWrapper';
+import Project from './components/Project';
 import Gallery from './pages/Gallery';
-import Projects from './pages/Projects';
+import ProjectsPage from './pages/ProjectsPage';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
-
-import logo5 from './assets/logo5.svg';
+import projects from './utils/projects.json';
 import './App.css';
 
 
@@ -27,8 +28,9 @@ class App extends React.Component {
             {/* <Route exact path="/" component={Register} /> */}
             <Route exact path="/" component={Home} />
             <Route exact path="/gallery" component={Gallery} />
-            <Route exact path="/projects" component={Projects} />
+            <Route exact path="/projects" component={ProjectsPage} />
           </Switch>
+
           <Footer />
         </Router >
       </div>

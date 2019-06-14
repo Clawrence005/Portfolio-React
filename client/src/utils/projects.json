@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Cocktail App",
+        "description": "MERN Stack App",
+        "github": "https://github.com/Clawrence005/cocktail-mern-material-ui",
+        "deployed": "",
+        "id": 1,
+        "image": "https://images.pexels.com/photos/1999579/pexels-photo-1999579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Burger Devourer",
+        "description": "Node App using Handlebars",
+        "github": "https://github.com/Clawrence005/practice-burger",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 2,
+        "image": "https://images.pexels.com/photos/1224158/pexels-photo-1224158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Bank App",
+        "description": "Node App using MSQL",
+        "github": "https://github.com/ndgithub/project-2",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 3,
+        "image": "https://images.pexels.com/photos/1407305/pexels-photo-1407305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Burger Devourer",
+        "description": "Node App using Handlebars",
+        "github": "",
+        "isDeployed": 1,
+        "deployed": "https://calm-brook-79600.herokuapp.com/api/all",
+        "id": 4,
+        "image": "https://images.pexels.com/photos/1964869/pexels-photo-1964869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Word Guess Game",
+        "description": "Vanilla Javascipt Hangman Game",
+        "github": "https://clawrence005.github.io/Word-Guess-Game/",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 5,
+        "image": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Burger Devourer",
+        "description": "Node App using Handlebars",
+        "github": "",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 6,
+        "image": "https://images.pexels.com/photos/1073069/pexels-photo-1073069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Burger Devourer",
+        "description": "Node App using Handlebars",
+        "github": "",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 7,
+        "image": "https://images.pexels.com/photos/1386313/pexels-photo-1386313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Burger Devourer",
+        "description": "Node App using Handlebars",
+        "github": "",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 8,
+        "image": "https://images.pexels.com/photos/1331734/pexels-photo-1331734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Burger Devourer",
+        "description": "Node App using Handlebars",
+        "github": "",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 9,
+        "image": "https://images.pexels.com/photos/2090641/pexels-photo-2090641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Train Scheduler",
+        "description": "Node App using Handlebars",
+        "github": "https://clawrence005.github.io/Train-Scheduler/",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 10,
+        "image": "https://images.pexels.com/photos/1253718/pexels-photo-1253718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "name": "Bamazon",
+        "description": "Node Command Line Digital Store App",
+        "github": "https://github.com/Clawrence005/Bamazon-Mysql-Storefront",
+        "deployed": "",
+        "isDeployed": 0,
+        "id": 11,
+        "image": "https://images.pexels.com/photos/305827/pexels-photo-305827.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+        "name": "Crystal Collector App",
+        "description": "Javascript and Jquery Click Game",
+        "github": "https://github.com/Clawrence005/Crystal-Collector",
+        "isDeployed": 1,
+        "deployed": "",
+        "id": 12,
+        "image": "https://images.pexels.com/photos/1030913/pexels-photo-1030913.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    }
+]
