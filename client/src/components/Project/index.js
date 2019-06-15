@@ -1,6 +1,5 @@
 import React from 'react';
 import { Grid } from '@material-ui/core';
-import logo5 from '../../assets/logo5.svg';
 import './styles.css';
 
 function Project(props) {
@@ -15,8 +14,11 @@ function Project(props) {
         width="190px"
       />
       <div className="div-content">
-        <h3><strong>{props.name}</strong></h3>
-        <p><strong>{props.name}</strong></p>
+        <h3><strong>name :{props.name}</strong></h3>
+        <p><strong>descrip: {props.description}</strong></p>
+        <p><strong>is it deployed :{props.isDeployed}</strong></p>
+        {/* if it is deployed use deployed website */}
+        <p><strong>website : {props.deployed}</strong></p>
       </div>
     </div>
   )

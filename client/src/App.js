@@ -30,7 +30,6 @@ class App extends React.Component {
             <Route exact path="/gallery" component={Gallery} />
             <Route exact path="/projects" component={ProjectsPage} />
           </Switch>
-
           <Footer />
         </Router >
       </div>

@@ -22,7 +22,7 @@ function Banner(props) {
   return (
     <div className={classes.root}>
       <Typography variant="h3" align="center">
-        <Paper>TITLE</Paper>
+        <Paper>{props.children}</Paper>
       </Typography>
     </div >
   );
