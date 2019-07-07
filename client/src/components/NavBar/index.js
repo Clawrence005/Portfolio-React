@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import { AppBar, Toolbar, Typography, Button, IconButton } from '@material-ui/core';
-import Logo from '../Logo';
 
 const HomeLink = props => <Link to="/" {...props} />
 const ProjectsLink = props => <Link to="/projects" {...props} />
@@ -34,7 +33,7 @@ function NavBar(props) {
           </Typography>
           <Button color="inherit" component={HomeLink}>Home</Button>
           <Button color="inherit" component={ProjectsLink}>Projects</Button>
-          <Button color="inherit" component={GalleryLink}>Gallery</Button>
+          {/* <Button color="inherit" component={GalleryLink}>Gallery</Button> */}
         </Toolbar>
       </AppBar>
     </div >

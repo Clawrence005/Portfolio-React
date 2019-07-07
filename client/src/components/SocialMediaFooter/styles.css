@@ -1,0 +1,12 @@
+.footer {
+border: 3px solid green;
+background-color: black;
+color: white;
+text-align-last: center;
+padding: 1em 0 1em 0;  
+}
+
+.footer-link {
+  border: 3px solid red;
+  margin: 2em ;
+}

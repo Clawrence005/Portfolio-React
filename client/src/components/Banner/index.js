@@ -2,7 +2,7 @@ import React from 'react';
 // import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
-import { Typography, Paper } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 
 const styles = {
   root: {
@@ -22,7 +22,7 @@ function Banner(props) {
   return (
     <div className={classes.root}>
       <Typography variant="h3" align="center">
-        <Paper>{props.children}</Paper>
+        {props.children}
       </Typography>
     </div >
   );

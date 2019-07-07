@@ -5,8 +5,8 @@ import GalleryPhotoWrapper from './containers/GalleryPhotoWrapper';
 import Project from './components/Project';
 import Gallery from './pages/Gallery';
 import ProjectsPage from './pages/ProjectsPage';
-import NavBar from './components/NavBar';
-import Footer from './components/Footer';
+import Nav from './components/Nav';
+import SocialMediaFooter from './components/SocialMediaFooter';
 import projects from './utils/projects.json';
 import './App.css';
 
@@ -23,14 +23,14 @@ class App extends React.Component {
     return (
       <div>
         <Router>
-          <NavBar />
+          <Nav />
           <Switch>
             {/* <Route exact path="/" component={Register} /> */}
             <Route exact path="/" component={Home} />
             <Route exact path="/gallery" component={Gallery} />
             <Route exact path="/projects" component={ProjectsPage} />
           </Switch>
-          <Footer />
+          <SocialMediaFooter />
         </Router >
       </div>
     );

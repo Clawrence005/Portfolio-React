@@ -1,0 +1,17 @@
+.nav-bar{ 
+  background-color:#2D2F2F;
+  border: 3px solid blueviolet;
+}
+
+.nav-link {
+  float: right;
+  color: white;
+  border: 3px solid red;
+  margin: 1em 2em 0;
+}
+
+.nav-name{
+  display: inline-block;
+  border: 3px solid blueviolet; 
+  margin: 1em;
+}

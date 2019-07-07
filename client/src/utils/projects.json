@@ -86,25 +86,25 @@
         "description": "Node App using Handlebars",
         "github": "https://clawrence005.github.io/Train-Scheduler/",
         "isDeployed": 1,
-        "deployed": "d",
+        "deployed": "",
         "image": "https://images.pexels.com/photos/1253718/pexels-photo-1253718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     },
     {
-        "name": "Bamazon",
-        "id": 11,
-        "description": "Node Command Line Digital Store App",
-        "github": "https://github.com/Clawrence005/Bamazon-Mysql-Storefront",
-        "deployed": "d",
-        "isDeployed": 0,
-        "image": "https://images.pexels.com/photos/305827/pexels-photo-305827.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
-    },
-    {
         "name": "Crystal Collector App",
-        "id": 12,
+        "id": 11,
         "description": "Javascript and Jquery Click Game",
         "github": "https://github.com/Clawrence005/Crystal-Collector",
         "isDeployed": 1,
         "deployed": "d",
         "image": "https://images.pexels.com/photos/1030913/pexels-photo-1030913.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+        "name": "Bamazon",
+        "id": 12,
+        "description": "Node Command Line Digital Store App",
+        "github": "https://github.com/Clawrence005/Bamazon-Mysql-Storefront",
+        "deployed": "d",
+        "isDeployed": 0,
+        "image": "https://images.pexels.com/photos/305827/pexels-photo-305827.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     }
 ]

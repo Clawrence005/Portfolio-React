@@ -1,0 +1,8 @@
+ .message{
+   font-family: 'monspace';
+   color:	#d1d1d1;
+   border: 1px solid grey;
+   font-size: 2em;
+   text-align: left;
+   width: 49%;
+ }

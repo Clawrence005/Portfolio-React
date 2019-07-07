@@ -1,0 +1,17 @@
+
+.landing-container{
+  border: 3px solid red;
+  background-color:#2D2F2F;
+  /* background-color: #d3d3d3; */
+  height: 100vh;
+}
+
+.portrait-container{
+  border: 3px solid green;
+  width: 49%;
+}
+
+.portrait{
+width: 100%;
+height: 100%;
+}

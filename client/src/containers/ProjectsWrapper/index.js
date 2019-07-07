@@ -2,7 +2,7 @@ import React from 'react';
 
 function ProjectWrapper(props) {
   return (
-    <div className="projectsWrapper">{props.children}</div>
+    <div className="projects-wrapper">{props.children}</div>
   )
 }
 
