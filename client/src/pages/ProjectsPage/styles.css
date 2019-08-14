@@ -3,27 +3,26 @@
   border: 3px solid purple;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  /* flex-direction: row; */
-
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
-.project-main-div{
-  display: flex;
-  flex-wrap: nowrap;
+
+.project-main-div{ 
+  /* display: flex; */
   flex:2;
   width: 100%;
   background-color: white;
-  margin: 1em;
+  /* margin: 2em; */
+  padding: 2em;
   border: 3px solid red;
-  /* justify-content: space-between; */
   border-radius: .5em;
   text-align: center;
-
 }
 
 .image{
+  display: inline-block;
   height: 262px;   
-  /* display: inline-block; */
+ 
   width: 262px;
   text-align: center;
 }
@@ -33,14 +32,12 @@
   border: 3px solid black;
   height: 262px;
   width: 262px;
-  /* display: inline-block; */
+  display: inline-block;
 }
 .image-content{
   border: 3px solid green;
   max-width: 100%;
-/* height: 18em; */
 }
-
 
 @media(max-width:768px){
   .projects-wrapper{

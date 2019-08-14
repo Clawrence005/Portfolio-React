@@ -25,7 +25,6 @@ class App extends React.Component {
         <Router>
           <Nav />
           <Switch>
-            {/* <Route exact path="/" component={Register} /> */}
             <Route exact path="/" component={Home} />
             <Route exact path="/gallery" component={Gallery} />
             <Route exact path="/projects" component={ProjectsPage} />

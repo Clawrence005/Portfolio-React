@@ -12,7 +12,6 @@ function Home() {
       <Banner>
         Title
         </Banner>
-
       <Blurb>
         Who I am. Existing in Austin i am a
         Maker
@@ -25,13 +24,14 @@ function Home() {
         destruction /is/
         creation
       </Blurb>
-
     </LandingSegment>
+
     <LandingSegment>
       <Banner>
         other Thing
       </Banner>
     </LandingSegment>
+
     <LandingSegment>
       <Banner>
         Another Thing

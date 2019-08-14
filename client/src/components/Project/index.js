@@ -34,7 +34,7 @@ function Project(props) {
     </div>
       </div>
     </div>
-    // </Grid>
+
   )
 }
 

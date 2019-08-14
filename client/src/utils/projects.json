@@ -4,7 +4,7 @@
         "id": 1,
         "description": "MERN Stack App",
         "github": "https://github.com/Clawrence005/cocktail-mern-material-ui",
-        "deployed": "f",
+        "deployed": "",
         "isDeployed": 1,
         "image": "https://images.pexels.com/photos/1999579/pexels-photo-1999579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     },
@@ -41,7 +41,7 @@
         "description": "Vanilla Javascipt Hangman Game",
         "github": "https://clawrence005.github.io/Word-Guess-Game/",
         "isDeployed": 1,
-        "deployed": "d",
+        "deployed": "https://clawrence005.github.io/Word-Guess-Game/",
         "image": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     },
     {
@@ -95,7 +95,7 @@
         "description": "Javascript and Jquery Click Game",
         "github": "https://github.com/Clawrence005/Crystal-Collector",
         "isDeployed": 1,
-        "deployed": "d",
+        "deployed": "https://clawrence005.github.io/Crystal-Collector/",
         "image": "https://images.pexels.com/photos/1030913/pexels-photo-1030913.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
